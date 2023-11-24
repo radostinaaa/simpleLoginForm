@@ -1,0 +1,11 @@
+C:\Users\Radostina\Desktop\patence\LoginApplication\bin\Debug\LoginApplication.exe.config
+C:\Users\Radostina\Desktop\patence\LoginApplication\bin\Debug\LoginApplication.exe
+C:\Users\Radostina\Desktop\patence\LoginApplication\bin\Debug\LoginApplication.pdb
+C:\Users\Radostina\Desktop\patence\LoginApplication\obj\Debug\LoginApplication.csproj.AssemblyReference.cache
+C:\Users\Radostina\Desktop\patence\LoginApplication\obj\Debug\LoginApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Radostina\Desktop\patence\LoginApplication\obj\Debug\LoginApplication.Form1.resources
+C:\Users\Radostina\Desktop\patence\LoginApplication\obj\Debug\LoginApplication.Properties.Resources.resources
+C:\Users\Radostina\Desktop\patence\LoginApplication\obj\Debug\LoginApplication.csproj.GenerateResource.cache
+C:\Users\Radostina\Desktop\patence\LoginApplication\obj\Debug\LoginApplication.csproj.CoreCompileInputs.cache
+C:\Users\Radostina\Desktop\patence\LoginApplication\obj\Debug\LoginApplication.exe
+C:\Users\Radostina\Desktop\patence\LoginApplication\obj\Debug\LoginApplication.pdb
